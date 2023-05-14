@@ -1,0 +1,11 @@
+{
+    "Holodex_Apikey" : "",
+    "BOT_TOKEN": "",
+    "clientID": "",
+    "clientSecret": "",
+    "redirectUrlLocal": "",
+    "redirectUrlStaging": "",
+    "redirectUrlDeploy": "",
+    "port": "",
+    "dbString": ""
+}
